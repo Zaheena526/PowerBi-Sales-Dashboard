@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,UnitPrice
+PROD001,Product 1,Technology,179
+PROD002,Product 2,Furniture,485
+PROD003,Product 3,Technology,197
+PROD004,Product 4,Technology,473
+PROD005,Product 5,Technology,280
+PROD006,Product 6,Technology,199
+PROD007,Product 7,Furniture,455
+PROD008,Product 8,Furniture,184
+PROD009,Product 9,Technology,455
+PROD010,Product 10,Technology,60
+PROD011,Product 11,Furniture,373
+PROD012,Product 12,Furniture,64
+PROD013,Product 13,Furniture,253
+PROD014,Product 14,Office Supplies,329
+PROD015,Product 15,Office Supplies,140
